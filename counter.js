@@ -9,7 +9,7 @@ document.getElementById("increaseBtn").onclick = function () {
     document.getElementById("countLabel").innerHTML = count;
 }
 document.getElementById("resetBtn").onclick = function () {
-    count = 0;;
+    count = 0;
     document.getElementById("countLabel").innerHTML = count;
 }
 
